@@ -1,7 +1,7 @@
 # Na!tours Application
 
 Built using modern technologies: node.js, express, mongoDB, mongoose and friends 😁
-https://lgope-natours.onrender.com/
+https://natours.dev/
 
 <p align="center">
   <img src="https://github.com/shantanu49001/MERN/blob/main/0.png" alt="Image 1">
